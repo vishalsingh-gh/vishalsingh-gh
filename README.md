@@ -31,8 +31,6 @@ Computer Science Engineer | MERN Developer | Java DSA Learner
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-gh&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -74,8 +72,16 @@ Collection of Java programming and DSA practice problems.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+<a href="https://leetcode.com/u/vishalsinghrajput/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" />
+</a>
+
 <a href="mailto:vishalsinghcse2026@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://x.com/Vishalsinghup50">
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 </p>
