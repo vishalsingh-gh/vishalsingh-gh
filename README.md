@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @vishalsinghraput
-- 👀 I’m interested in passionate coding & development
-- 🌱 I’m currently learning computer science enginnering
-- 💞️ I’m looking to collaborate on different developer
-- 📫 How to reach me vishalsinghcse2026@gmail.com
-- 😄 Pronouns☕
-- ⚡ Fun fact:code till die
+<h1 align="center">Hi 👋, I'm Vishal Singh Rajput</h1>
+<h3 align="center">Computer Science Engineer | MERN Developer | DSA Learner</h3>
 
-<!---
-vishalsingh-gh/vishalsingh-gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+DSA+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
