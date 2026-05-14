@@ -1,40 +1,83 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh Rajput</h1>
-<h3 align="center">Computer Science Engineer | MERN Developer | DSA Learner</h3>
+
+<h3 align="center">
+Computer Science Engineer | MERN Developer | Java DSA Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+DSA+Learner;Open+Source+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+DSA+Learner;MERN+Stack+Enthusiast;Always+Learning+New+Things" />
 </p>
 
-## 🛠 Tech Stack
+---
 
-<p align="left">
+## 🚀 About Me
+
+- 🌱 Currently learning **MERN Stack & Advanced DSA**
+- 💻 Passionate about **Web Development**
+- 🤝 Open to collaborate on **Open Source Projects**
+- ⚡ Fun fact: **Turning ideas into real applications**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode" />
 
 </p>
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vishalsingh-gh&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-gh&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-gh&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh-gh&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-gh&theme=tokyonight&hide_border=true" />
+
 </p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh-gh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Paperless Scholarship Disbursement System
+A web-based platform for managing scholarship applications and verification.
+
+### 🔐 Strong Password Generator
+Generate strong and secure passwords instantly using JavaScript.
+
+### 💻 Java DSA Programs
+Collection of Java programming and DSA practice problems.
+
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/vishalsingh-gh" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<p align="center">
+
+<a href="https://github.com/vishalsingh-gh">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="mailto:vishalsinghcse2026@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
-![](https://komarev.com/ghpvc/?username=vishalsingh-gh&color=blue)
+---
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vishalsingh-gh&label=Profile%20views&color=0e75b6&style=flat" />
+
+</p>
