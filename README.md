@@ -31,17 +31,19 @@ Computer Science Engineer | MERN Developer | Java DSA Learner
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-gh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-gh&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-gh&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=vishalsingh-gh&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh-gh&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh-gh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -63,6 +65,10 @@ Collection of Java programming and DSA practice problems.
 ## 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://www.linkedin.com/in/vishal-singh-296bb1296/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
 <a href="https://github.com/vishalsingh-gh">
 <img src="https://skillicons.dev/icons?i=github" />
