@@ -33,9 +33,9 @@ Computer Science Engineer | MERN Developer | Java DSA Learner
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalsingh-gh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vishalsingh-gh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/> -->
 
-<!-- <img src="https://streak-stats.demolab.com?user=vishalsingh-gh&theme=tokyonight&hide_border=true" height="170"/> -->
+<img src="https://streak-stats.demolab.com?user=vishalsingh-gh&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
