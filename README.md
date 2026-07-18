@@ -23,7 +23,8 @@ Computer Science Engineer | MERN Developer | Java DSA Learner
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode" />
+<!-- <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode" /> -->
+<img src="https://skillicons.dev/icons?i=java,mongodb,mysql,html,css,javascript,react,git,github,vscode" />
 
 </p>
 
