@@ -54,22 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalsingh-gh&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh-gh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=vishalsingh-gh&theme=radical&hide_border=true&background=0d1117" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalsingh-gh&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishalsingh-gh&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
